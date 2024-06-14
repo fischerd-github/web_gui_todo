@@ -1,4 +1,4 @@
-FILEPATH = "venv/todos.txt"
+FILEPATH = "todos.txt"
 
 
 def print_numbered_item_list(todos_arg):
