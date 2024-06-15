@@ -2,6 +2,9 @@ import streamlit as st
 import app1_functions
 
 
+# to create a package requirements.txt file do:
+# pip freeze > requirements.txt
+
 # to run, type in the Terminal window:
 # streamlit run web_gui.py
 
